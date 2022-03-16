@@ -1,10 +1,12 @@
 ## dashboard_PlayClothing
-#### Dashboard del proyecto e-commerce PlayClothing
+### Dashboard del proyecto e-commerce PlayClothing
 
 **Objetivo principal:**
 Poner en práctica lo aprendido con React
+Este Dashboard está conectado a la aplicación y base de datos. 
 
-**Este Dasboard está conectado a la aplicación y base de datos. En este se podrá consultar:**
+**Contenido:**
+En este se podrá consultar:
 - Cantidad de usuarios registrados
 - Categorías y tipos de productos que se ofrecen
 - último producto creado
