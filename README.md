@@ -2,7 +2,7 @@
 ### Dashboard del proyecto e-commerce PlayClothing
 
 **Objetivo principal:**
-Poner en práctica lo aprendido con React
+Poner en práctica lo aprendido con ***React***.
 Este Dashboard está conectado a la aplicación y base de datos. 
 
 **Contenido:**
